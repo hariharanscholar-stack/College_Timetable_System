@@ -27,13 +27,32 @@ College Timetable System is a modern web-based scheduling platform that simplifi
 ## 📸 Application Preview
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1536" height="729" alt="image" src="https://github.com/user-attachments/assets/500866aa-7915-4f2d-876b-635a8afc295e" />
 
 ### Timetable Management
-![Timetable](screenshots/timetable.png)
+<img width="1536" height="731" alt="image" src="https://github.com/user-attachments/assets/6a73f943-2438-45cc-a8a1-83727a3d0de4" />
 
-### Faculty Management
-![Faculty](screenshots/faculty.png)
+<img width="1536" height="731" alt="image" src="https://github.com/user-attachments/assets/2f22afcf-901d-4dff-aee3-599137c726f4" />
+
+<img width="1536" height="735" alt="image" src="https://github.com/user-attachments/assets/4c835b05-733b-4176-a6e8-367f24a7ef9d" />
+
+### Timeslot Management
+
+<img width="1536" height="729" alt="image" src="https://github.com/user-attachments/assets/ed484d97-20e8-4ed7-8f62-26cffed3e7bc" />
+
+### Access Management
+
+<img width="1536" height="734" alt="image" src="https://github.com/user-attachments/assets/895746b4-d8d5-453c-ab90-4eeea5fd5198" />
+
+### Customizable Constraint
+
+<img width="1536" height="728" alt="image" src="https://github.com/user-attachments/assets/8d8afd26-2afd-444d-b45d-fa2fed834474" />
+
+### Final Timetable 
+
+<img width="1536" height="743" alt="image" src="https://github.com/user-attachments/assets/f5570c29-4a47-4f36-ad8e-158b9ac7e28d" />
+
+<img width="1536" height="814" alt="image" src="https://github.com/user-attachments/assets/b66418af-cff1-4e9c-a910-5dd4cd2b046a" />
 
 ---
 
