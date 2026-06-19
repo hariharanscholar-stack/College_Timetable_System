@@ -9,10 +9,21 @@ Automating timetable generation, faculty allocation, classroom management, and c
 </div>
 
 ---
+<div align="center">
 
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
-![Vite](https://img.shields.io/badge/Vite-Build-purple)
+<a href="#">
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="35">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="35">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="35">
+</a>
+
+</div>
 
 # College_Timetable_System
 Intelligent academic scheduling platform that automates timetable generation, faculty allocation, classroom management, and conflict-free scheduling for educational institutions.
