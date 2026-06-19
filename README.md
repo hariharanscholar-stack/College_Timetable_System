@@ -1,3 +1,15 @@
+<div align="center">
+
+# 🎓 College Timetable System
+
+### Smart Academic Scheduling for Modern Educational Institutions
+
+Automating timetable generation, faculty allocation, classroom management, and conflict-free scheduling.
+
+</div>
+
+---
+
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
 ![Vite](https://img.shields.io/badge/Vite-Build-purple)
