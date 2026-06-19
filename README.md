@@ -167,7 +167,6 @@ src/
 - Attendance Management System
 - Faculty Workload Analytics
 - Mobile Application Support
-- PDF & Excel Export
 - Email Notifications
 
 ---
