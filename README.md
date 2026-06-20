@@ -27,9 +27,6 @@ Automating timetable generation, faculty allocation, classroom management, and c
 
 ---
 
-# College_Timetable_System
-Intelligent academic scheduling platform that automates timetable generation, faculty allocation, classroom management, and conflict-free scheduling for educational institutions.
-
 # 🎓 College Timetable System
 
 > Smart Academic Scheduling for Modern Educational Institutions
